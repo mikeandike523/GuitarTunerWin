@@ -1,0 +1,1 @@
+devenv /DebugExe GuitarTunerWin.exe
