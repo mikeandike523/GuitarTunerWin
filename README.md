@@ -11,4 +11,4 @@ See [The Latest Release](https://github.com/mikeandike523/GuitarTunerWin/release
 
 Questions? Bug Reports? Suggestions?
 
-Use the [GuitarTuneWin Discussion Page](https://github.com/mikeandike523/GuitarTunerWin/discussions/1).
+Use the [GuitarTunerWin Discussion Page](https://github.com/mikeandike523/GuitarTunerWin/discussions/1).
