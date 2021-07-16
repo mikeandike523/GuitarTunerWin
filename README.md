@@ -7,8 +7,8 @@ Use this app to tune your guitar strings to any note and plot tuning accuraxcy i
 
 A *Rocksmith Real Tone* Guitar-To-USB adapter is recommended for best performance.
 
-See [The Latest Release]() for an easy-to-use installer.
+See [The Latest Release](https://github.com/mikeandike523/GuitarTunerWin/releases/tag/0.1) for an easy-to-use installer.
 
 Questions? Bug Reports? Suggestions?
 
-Use the [GuitarTuneWin Discussion Page].
+Use the [GuitarTuneWin Discussion Page](https://github.com/mikeandike523/GuitarTunerWin/discussions/1).
