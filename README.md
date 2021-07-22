@@ -14,4 +14,5 @@ Questions? Bug Reports? Suggestions?
 Use the [GuitarTunerWin Discussion Page](https://github.com/mikeandike523/GuitarTunerWin/discussions/1).
 
 **GNU GPL LICENSE**
+
 See [The GNU GPL License](https://www.gnu.org/licenses/gpl-3.0.en.html)
